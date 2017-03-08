@@ -1,0 +1,2553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="17" lt="17" ts="1405487849428" s="false" lb="getclosedshops.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487849446" s="false" lb="addcheckin.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1405487849453" s="false" lb="addphotocheckin.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="30" lt="30" ts="1405487849463" s="false" lb="replycheckin.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="32" lt="32" ts="1405487849493" s="false" lb="LocalCheckinlist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="13" lt="13" ts="1405487849526" s="false" lb="addavatar.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487849540" s="false" lb="local.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487849548" s="false" lb="commendphotoshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="10" lt="10" ts="1405487849556" s="true" lb="localreview.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="0" ts="1405487849567" s="true" lb="searchbookingshop.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="1252" lt="1252" ts="1405487849575" s="true" lb="unimain" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="757">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487850827" s="false" lb="nearbyshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="0" ts="1405487850836" s="true" lb="checkinsearchshop.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487850843" s="false" lb="localshophd.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="16" lt="16" ts="1405487850852" s="false" lb="mayor.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487850869" s="false" lb="localshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="11" lt="11" ts="1405487850877" s="false" lb="submitsceneryorder.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="0" ts="1405487850889" s="true" lb="searchshop.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="21" lt="0" ts="1405487850897" s="true" lb="searchshophd.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="15" lt="15" ts="1405487850919" s="false" lb="getpricecalendar.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487850934" s="false" lb="localdish.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487850942" s="false" lb="drawsearch.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="128">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="0" ts="1405487850949" s="true" lb="searchflavourstreetshop.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487850959" s="true" lb="LocalShop.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487850967" s="false" lb="review.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487850974" s="false" lb="commendshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487850982" s="false" lb="SearchShop.hson" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="971">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="0" ts="1405487850990" s="true" lb="usercheckinlist.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="12" lt="12" ts="1405487850996" s="false" lb="bindthird.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="0" ts="1405487851014" s="true" lb="searchflavourshop.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="0" ts="1405487851021" s="true" lb="shopphotolist.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="14" lt="14" ts="1405487851028" s="false" lb="thirdlogin.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1405487851043" s="true" lb="seealsoshoplist.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="64">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851052" s="false" lb="getsceneryticketlist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851060" s="false" lb="shakeshops.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851068" s="false" lb="scoreboard.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="0" ts="1405487851081" s="true" lb="checkinlist.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851087" s="false" lb="reviewhd.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851095" s="true" lb="GeoLocation.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="79">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487851103" s="false" lb="getrankshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="0" ts="1405487851110" s="true" lb="shopcheckin.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487851116" s="false" lb="sceneryorder.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851125" s="false" lb="statisticscheckinlist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="34" lt="0" ts="1405487851133" s="true" lb="shopPhotoListHD.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="24" lt="24" ts="1405487851168" s="false" lb="promoindex.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="64">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851193" s="false" lb="ShopReview.hson" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="971">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="0" ts="1405487851201" s="true" lb="searchuser.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851209" s="false" lb="getcheckinstatistics.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487851216" s="false" lb="getmessages.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="12" lt="12" ts="1405487851223" s="false" lb="promosubindex.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="64">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="19" lt="19" ts="1405487851236" s="false" lb="recommendhotel.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851255" s="false" lb="comments.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851263" s="false" lb="notification.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487851271" s="false" lb="searchshop.api" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1405487851284" s="false" lb="login.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487851294" s="false" lb="getlocalflavour.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851303" s="false" lb="bookinghotel.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851315" s="false" lb="rankIndex.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="0" ts="1405487851323" s="true" lb="searchbookableshop.api" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="14" lt="14" ts="1405487851335" s="false" lb="thirdsignup.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851350" s="false" lb="requestcode.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="13" lt="13" ts="1405487851358" s="false" lb="ShopCheckIn.hson" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="973">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="11" lt="0" ts="1405487851372" s="true" lb="searchbookingshop.api" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851384" s="true" lb="getunreadmsgcount.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="64">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851392" s="true" lb="signup.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="56" lt="56" ts="1405487851399" s="true" lb="getvalidationcode.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="8832">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="11" lt="11" ts="1405487851456" s="false" lb="thirdbind.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851468" s="false" lb="shop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="10" lt="10" ts="1405487851476" s="true" lb="thirdshare.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487851487" s="false" lb="badge.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="12" lt="0" ts="1405487851494" s="true" lb="shopdish.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487851507" s="false" lb="verifycode.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="17" lt="17" ts="1405487851515" s="false" lb="thirdauth.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="13" lt="12" ts="1405487851532" s="true" lb="MiniView.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851545" s="true" lb="PromoInfo.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="43" lt="28" ts="1405487851553" s="true" lb="allcampaignboard.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="102642">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487851597" s="false" lb="unreadntfcount.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="442" lt="442" ts="1405487851605" s="true" lb="getsceneryorders.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="864">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852047" s="false" lb="dishphotolist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="18" lt="18" ts="1405487852055" s="false" lb="pwinxincallback" rc="500" rm="Internal Server Error" tn="api测试 1-1" dt="text" by="2970">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="14" lt="14" ts="1405487852074" s="false" lb="badgeinfo.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="0" ts="1405487852089" s="true" lb="ad" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1405487852095" s="false" lb="getshoptags.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852105" s="false" lb="ShopInfo.hson" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="967">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487852112" s="false" lb="hotelinfo.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="122" lt="122" ts="1405487852121" s="true" lb="getsceneryordersize.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="64">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852244" s="false" lb="pushform.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487852252" s="true" lb="residence.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487852259" s="false" lb="updatemipush.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852267" s="false" lb="regionhd.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487852280" s="false" lb="SearchIndex.hson" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="973">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="0" ts="1405487852289" s="true" lb="userscore.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="0" ts="1405487852299" s="true" lb="downloadlink" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852306" s="false" lb="campaignboard.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="22" lt="22" ts="1405487852314" s="true" lb="weixinaudit" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="1902">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="0" ts="1405487852337" s="true" lb="download" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1405487852344" s="true" lb="hotelorder.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="224">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852353" s="false" lb="sortnav.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852361" s="true" lb="shakeconfig.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="384">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="0" ts="1405487852374" s="true" lb="qqshop" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1405487852380" s="true" lb="honeyrequest.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="19" lt="19" ts="1405487852394" s="true" lb="CityList.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487852414" s="true" lb="getsplashpic.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="48">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487852421" s="false" lb="log.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="14" lt="14" ts="1405487852429" s="true" lb="web.map" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="358">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852443" s="true" lb="Config.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="81">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="0" ts="1405487852451" s="true" lb="weixinshop" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852457" s="false" lb="indextabicon.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="0" ts="1405487852465" s="true" lb="shopcampaign.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="0" ts="1405487852471" s="true" lb="homepagedealgn.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="0" ts="1405487852483" s="true" lb="locationconfig.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852490" s="false" lb="pullpush.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="64">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487852498" s="false" lb="openplatform.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="10" lt="10" ts="1405487852504" s="true" lb="appconfig.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="1312">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487852514" s="false" lb="advancedsuggest.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852526" s="false" lb="gethotad.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487852533" s="false" lb="getmopaystrategylist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852547" s="false" lb="weather/include/index_html_interface.jsp" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1021">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487852555" s="false" lb="livedata/sxl.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="971">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852566" s="false" lb="http%3A//m.api.dianping.com/http%3A//m.api.dianping.com/h...ping.com/http%252525253A/m.api.dianping.com/http%252525253A" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1179">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852574" s="false" lb="reqi/weather_reci" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="975">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852586" s="false" lb="cb/js/imgReady.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="975">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852593" s="false" lb="activeip/" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="959">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852603" s="false" lb="video.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="957">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487852611" s="false" lb="RghpN/7115db12/6fa11fa3/www.kj7e.com/js/chart.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1037">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487852622" s="false" lb="KnKoQ/7115db13/3c370a64/www.as9v.com/js/lib/base64.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1047">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487852631" s="false" lb="js/baidu.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="963">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487852638" s="false" lb="showpage/showpage/sc/modules/ISC_Forms.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1023">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487852647" s="false" lb="a.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="949">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852654" s="false" lb="adpro.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="957">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487852666" s="false" lb="sdk.php" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="955">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852673" s="false" lb="static/image/commonimg/jquery-slides.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1019">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852684" s="false" lb="QgZLS/71149012/67fafaec/cdn.188bet.com/Public/Lib/mcarousel-min.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1073">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852692" s="false" lb="NfXKT/71149014/7041d3e5/cdn.myjbb.com/Public/JS/CommonControl.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1069">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487852703" s="false" lb="generate_204" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="965">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487852710" s="false" lb="cclmb/sp.cecile.co.jp/component/js/genre/detail/jquery.autoheight.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1077">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487852721" s="false" lb="rest/api3.do" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="965">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852728" s="false" lb="page.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="955">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487852739" s="false" lb="cdn_dianjiliu.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="973">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="46" lt="46" ts="1405487852748" s="false" lb="NPfKP/71149012/d3a222cb/cdn.188bet.com/Public/Lib/mcarousel-min.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1073">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="57" lt="57" ts="1405487852795" s="false" lb="YUKmN/71149017/24fae127/cdn.188asia.com/Public/Lib/mcarousel-min.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1075">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="15" lt="15" ts="1405487852853" s="false" lb="s.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="949">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852869" s="false" lb="announce" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="957">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487852877" s="false" lb="client_config.php" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="975">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852884" s="false" lb="analytics/upload" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="973">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487852892" s="false" lb="Scripts/Pay.Float.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="981">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852899" s="false" lb="dispatch" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="957">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487852907" s="false" lb="NKWOL/71149017/67fafaf6/cdn.188asia.com/Public/Lib/mslides.min.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1071">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852914" s="false" lb="gateway/gw.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="967">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487852922" s="false" lb="ga.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="951">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852929" s="false" lb="XWWOK/71149050/dfa676ab/sb.188bet.com/Public/JS/Minified/SportMasterPage.min.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1099">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852937" s="false" lb="VaUPN/71149018/6fa17206/cdn.jbbbet.com/Public/Lib/jQuery/jquery-ui-1.10.1.min.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1101">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852947" s="false" lb="beacon.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="959">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487852954" s="false" lb="4198290.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="961">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487852969" s="false" lb="c/" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="945">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487852976" s="false" lb="wza/cnjxolcom/yixuan/yixuan_nav/domready.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1027">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852985" s="false" lb="position/" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="959">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487852993" s="false" lb="vplayer.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="961">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853001" s="false" lb="jump/skip.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="965">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853009" s="false" lb="v/n.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="953">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487853017" s="false" lb="js/carousel/conf.scrollable.v2.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1007">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487853028" s="false" lb="OMhjX/71149012/dfa77117/cdn.188bet.com/Public/Lib/Modernizr.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1065">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20" lt="20" ts="1405487853035" s="false" lb="qzonecallback" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="975">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853056" s="false" lb="OhdbU/71149014/6fa1720e/cdn.myjbb.com/Public/Lib/jQuery/jquery-1.9.1.min.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1091">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="30" lt="30" ts="1405487853064" s="false" lb="qzoneandroid" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="975">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487853095" s="false" lb="utm.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="953">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487853102" s="false" lb="getts.json" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="961">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1405487853111" s="true" lb="sc/api_res/pic/shop/7.png" rc="200" rm="OK" tn="api测试 1-1" dt="bin" by="3482">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1405487853117" s="true" lb="sc/api_res/pic/shop/4.png" rc="200" rm="OK" tn="api测试 1-1" dt="bin" by="3321">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1405487853127" s="false" lb="tool/ugc/sort_list.php" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="985">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853138" s="false" lb="v1/" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="947">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487853146" s="false" lb="data/cache/style_5_forum_index.css" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1009">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853153" s="false" lb="static/js/common.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="979">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853164" s="false" lb="data/cache/style_5_common.css" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="999">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487853172" s="false" lb="data/cache/style_5_widthauto.css" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1005">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487853183" s="false" lb="static/js/forum.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="977">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853190" s="false" lb="wpad.dat" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="957">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853201" s="false" lb="static/js/jquery-mini-1.4.4.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1001">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853209" s="false" lb="static/js/logging.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="981">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853219" s="false" lb="static/js/script.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="979">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="22" lt="22" ts="1405487853227" s="false" lb="template/hiapk/images/logo.png" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1001">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="27" lt="27" ts="1405487853249" s="false" lb="static/image/common/security.png" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1005">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="22" lt="22" ts="1405487853277" s="false" lb="home.php" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="957">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487853300" s="false" lb="index.php" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="959">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="0" ts="1405487853307" s="true" lb="grouponpaybackServlet" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="0" ts="1405487853314" s="false" lb="SinaCallBackServlet" rc="302" rm="Found" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="12" lt="12" ts="1405487853324" s="true" lb="sc/api_res/pic/shop/5.png" rc="200" rm="OK" tn="api测试 1-1" dt="bin" by="3559">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487853337" s="true" lb="hosts.txt" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="373">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1405487853344" s="true" lb="f5monitor" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="17">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853350" s="true" lb="css/weixinshopbase.css" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="3123">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853358" s="true" lb="s/img/pin_red.png" rc="200" rm="OK" tn="api测试 1-1" dt="bin" by="2916">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487853369" s="true" lb="s/img/dot_position.png" rc="200" rm="OK" tn="api测试 1-1" dt="bin" by="1301">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853376" s="false" lb="searchlocation.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="0" ts="1405487853387" s="true" lb="pushreceived.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="6" ts="1405487853394" s="true" lb="offset.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="48">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487853405" s="false" lb="hc.nagios" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="959">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1405487853414" s="false" lb="lottery.bin" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="169">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853423" s="false" lb="mycardbag.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="11" lt="10" ts="1405487853430" s="true" lb="homepagehotel.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="64">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853441" s="false" lb="submitorder.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487853449" s="false" lb="submitlottery.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487853459" s="false" lb="checkoutorder.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1405487853466" s="false" lb="verifyorder.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853479" s="false" lb="sendverifycode.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853487" s="false" lb="bindphone.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487853499" s="true" lb="deal.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="240">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853508" s="false" lb="deallist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853516" s="false" lb="buygroupon.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487853525" s="false" lb="getdeliveryarea.bi" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="977">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853534" s="false" lb="couponlist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487853542" s="false" lb="orderlist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487853550" s="false" lb="deallistpaged.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853559" s="false" lb="verifycouponcode.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487853567" s="false" lb="sendgroupon.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487853577" s="false" lb="getweddinginfo.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1405487853586" s="false" lb="bookingwedding.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="725" lt="725" ts="1405487853596" s="true" lb="location.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="192">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="17" lt="17" ts="1405487854322" s="false" lb="locate.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="121" lt="121" ts="1405487854340" s="true" lb="rgc.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="192">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="105" lt="105" ts="1405487854462" s="true" lb="locationhd.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="128">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="10" lt="10" ts="1405487854568" s="true" lb="config.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="1344">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487854579" s="true" lb="configbg.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="1344">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="0" ts="1405487854588" s="true" lb="shopwithtaggedreview.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487854595" s="false" lb="shopfeaturetags.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487854602" s="false" lb="direction.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="22" lt="22" ts="1405487854619" s="false" lb="nearbygroupon.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487854641" s="false" lb="recommenddealreview.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487854648" s="false" lb="userphoto.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487854659" s="false" lb="deletephoto.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487854667" s="false" lb="uploadphoto.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="7" ts="1405487854674" s="false" lb="updatephoto.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487854690" s="false" lb="getshopalbumdetail.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487854698" s="false" lb="getshopalbum.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487854705" s="false" lb="addshopphoto.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487854713" s="false" lb="addreview.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487854721" s="false" lb="delreview.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487854728" s="false" lb="reviewform.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="10" lt="10" ts="1405487854735" s="false" lb="userreview.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487854746" s="false" lb="likereview.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487854752" s="false" lb="replyreview.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="85" lt="85" ts="1405487854761" s="true" lb="reviewcomments.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="1408">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487854847" s="false" lb="shop.4g" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487854854" s="false" lb="shopmedia.4g" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487854869" s="false" lb="brandevent.4g" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487854878" s="false" lb="addtionalreview.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487854885" s="false" lb="editreview.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487854893" s="false" lb="getmopaydiscount.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487854901" s="false" lb="getmopaypromo.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1405487854909" s="false" lb="getmopayorder.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487854919" s="false" lb="getmopaystrategy.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487854927" s="false" lb="mopay.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487854934" s="false" lb="querymopaystatus.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487854945" s="false" lb="shopcontribution.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487854952" s="false" lb="ugc" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="947">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487854960" s="false" lb="shop" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="949">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487854968" s="false" lb="addshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487854976" s="false" lb="sc" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="945">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="4527" lt="4158" ts="1405487854983" s="true" lb="site" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="4350">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="12" lt="12" ts="1405487859511" s="false" lb="drawsearch.api" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859524" s="false" lb="shoplist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859532" s="false" lb="searchsuggest.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859548" s="false" lb="rankfullindex.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859556" s="false" lb="ranktype.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487859564" s="false" lb="rankinfo.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859573" s="false" lb="searchrank.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859581" s="false" lb="getparkinglist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487859589" s="false" lb="searchshop.4g" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859598" s="false" lb="getkeywordtuan.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859606" s="false" lb="searchadshop.api" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487859613" s="false" lb="search" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="953">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487859623" s="false" lb="category.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859631" s="false" lb="hotcategory.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="19" lt="19" ts="1405487859641" s="true" lb="locatecategory.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="240">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="40" lt="36" ts="1405487859661" s="true" lb="city.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="18752">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487859701" s="false" lb="metro.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487859710" s="false" lb="region.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487859720" s="false" lb="hotregion.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487859727" s="false" lb="recommendregion.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487859734" s="false" lb="categoryrecom.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859747" s="false" lb="commons" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="955">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487859755" s="false" lb="recommendregionfeedback.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="7" ts="1405487859764" s="false" lb="promobrand.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859772" s="false" lb="brandpromolist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859780" s="false" lb="sendpromo.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859790" s="false" lb="searchpromo.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487859798" s="false" lb="localpromo.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859807" s="false" lb="getpromopass.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="0" ts="1405487859815" s="false" lb="passbookreg" rc="404" rm="Not Found" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487859824" s="false" lb="notificationform.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859831" s="false" lb="readnotifications.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="6" ts="1405487859840" s="false" lb="updatenotificationform.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487859847" s="false" lb="delnotifications.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859857" s="false" lb="readmsg.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487859865" s="false" lb="subscribe.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487859874" s="false" lb="sendprivatemsg.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487859881" s="false" lb="addfollow.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859888" s="false" lb="fanslist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487859896" s="true" lb="followlist.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487859903" s="false" lb="removefollow.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="14" lt="14" ts="1405487859910" s="true" lb="addfeedback.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="192">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487859925" s="false" lb="addshopfeedback.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487859934" s="false" lb="addfavoriteshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859941" s="false" lb="delfavoriteshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859948" s="false" lb="favoriteshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859956" s="false" lb="snsfriends.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487859966" s="false" lb="snsbindstatus.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487859972" s="false" lb="ssobind.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1405487859982" s="true" lb="notificationsetting.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487859991" s="false" lb="updatenotificationsetting.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487859999" s="false" lb="updateresidence.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860007" s="false" lb="user.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487860015" s="false" lb="updateprofile.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860026" s="true" lb="getmyordercount.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="448">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487860034" s="true" lb="getalertmark.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860043" s="false" lb="user" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="949">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487860050" s="false" lb="getnotificationlist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487860059" s="false" lb="checkintopicdetail.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860067" s="false" lb="checkintopiclist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860077" s="false" lb="shopcheckinboard.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860084" s="false" lb="checkinboard.api" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860093" s="false" lb="delcheckin.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860100" s="false" lb="addphotoscheckin.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860108" s="false" lb="getlikedactivity.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860117" s="false" lb="getcheckintopictags.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860125" s="false" lb="checkin" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="955">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860133" s="false" lb="usercheckinlist.api" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487860141" s="false" lb="citytripguide.hotel" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487860149" s="false" lb="getflavourguide.hotel" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860159" s="false" lb="getrankshopv66.hotel" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487860167" s="false" lb="getrecomroute.hotel" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="15" lt="0" ts="1405487860177" s="true" lb="searchsuggest.hotel" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="16" lt="0" ts="1405487860192" s="true" lb="searchshop.hotel" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="12" lt="12" ts="1405487860208" s="false" lb="roomprice.hotel" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="14" lt="14" ts="1405487860220" s="false" lb="advancedsuggest.hotel" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1405487860234" s="false" lb="hotregion.hotel" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487860243" s="false" lb="getlocalinfo.hotel" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="19" lt="19" ts="1405487860250" s="false" lb="novicegift" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="963">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="10" lt="10" ts="1405487860270" s="false" lb="getdpid.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487860281" s="false" lb="upgrade.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487860288" s="false" lb="appresume.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="11" lt="11" ts="1405487860295" s="true" lb="getcityinfo.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="144">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1405487860307" s="false" lb="homepagefindtab.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="33" lt="33" ts="1405487860313" s="false" lb="gift" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="951">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860347" s="false" lb="homepageindex.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487860355" s="false" lb="updatepush.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487860366" s="false" lb="samsungwallet.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860373" s="false" lb="indexads.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860383" s="false" lb="appactivate.api" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1405487860391" s="false" lb="offsetshoppoint.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860398" s="false" lb="optimus" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="955">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /00/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860407" s="false" lb="getcitylandmarks.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1405487860414" s="false" lb="yytopbarad.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+
+</testResults>

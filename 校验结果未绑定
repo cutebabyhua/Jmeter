@@ -1,0 +1,4449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="26" lt="26" ts="1406106019011" s="false" lb="getclosedshops.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106019044" s="false" lb="addcheckin.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106019050" s="false" lb="addphotocheckin.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019059" s="false" lb="replycheckin.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019067" s="false" lb="LocalCheckinlist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106019075" s="false" lb="addavatar.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019081" s="false" lb="local.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106019088" s="false" lb="commendphotoshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="10" lt="10" ts="1406106019098" s="true" lb="localreview.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="21" lt="21" ts="1406106019109" s="false" lb="searchbookingshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="128">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="538" lt="538" ts="1406106019131" s="true" lb="unimain" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="757">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106019670" s="false" lb="nearbyshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106019678" s="false" lb="checkinsearchshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019686" s="false" lb="localshophd.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="14" lt="14" ts="1406106019693" s="false" lb="mayor.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019709" s="false" lb="localshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019716" s="false" lb="submitsceneryorder.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019723" s="false" lb="searchshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1406106019730" s="false" lb="searchshophd.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106019740" s="false" lb="getpricecalendar.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106019749" s="false" lb="localdish.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019756" s="false" lb="drawsearch.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="128">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="18" lt="18" ts="1406106019763" s="false" lb="searchflavourstreetshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106019783" s="true" lb="LocalShop.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106019789" s="false" lb="review.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106019797" s="false" lb="commendshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106019806" s="true" lb="SearchShop.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106019812" s="false" lb="usercheckinlist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1406106019825" s="false" lb="bindthird.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106019836" s="false" lb="searchflavourshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019842" s="false" lb="shopphotolist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="19" lt="19" ts="1406106019849" s="false" lb="thirdlogin.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="17" lt="17" ts="1406106019869" s="true" lb="seealsoshoplist.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="64">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019887" s="false" lb="getsceneryticketlist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019895" s="false" lb="shakeshops.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106019902" s="false" lb="scoreboard.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019909" s="false" lb="checkinlist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019923" s="false" lb="reviewhd.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106019930" s="true" lb="GeoLocation.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="79">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106019936" s="false" lb="getrankshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019945" s="false" lb="shopcheckin.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019952" s="false" lb="sceneryorder.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106019959" s="false" lb="statisticscheckinlist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019968" s="false" lb="shopPhotoListHD.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019975" s="false" lb="promoindex.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="64">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106019983" s="true" lb="ShopReview.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106019989" s="false" lb="searchuser.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106019995" s="false" lb="getcheckinstatistics.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106020002" s="false" lb="getmessages.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106020009" s="false" lb="promosubindex.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="64">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="17" lt="17" ts="1406106020016" s="false" lb="recommendhotel.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106020035" s="false" lb="comments.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106020042" s="false" lb="notification.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106020049" s="false" lb="searchshop.api" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106020066" s="false" lb="login.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106020075" s="false" lb="getlocalflavour.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106020082" s="false" lb="bookinghotel.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106020089" s="false" lb="rankIndex.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106020097" s="false" lb="searchbookableshop.api" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="11" lt="11" ts="1406106020104" s="false" lb="thirdsignup.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106020120" s="false" lb="requestcode.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106020128" s="true" lb="ShopCheckIn.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106020134" s="false" lb="searchbookingshop.api" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="64">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106020141" s="true" lb="getunreadmsgcount.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="64">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106020149" s="true" lb="signup.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="41" lt="38" ts="1406106020155" s="true" lb="getvalidationcode.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="10448">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106020197" s="false" lb="thirdbind.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1406106020206" s="false" lb="shop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1406106020217" s="true" lb="thirdshare.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106020232" s="false" lb="badge.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106020239" s="false" lb="shopdish.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106020255" s="false" lb="verifycode.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="26" lt="26" ts="1406106020262" s="false" lb="thirdauth.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106020289" s="true" lb="MiniView.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="4" lt="4" ts="1406106020295" s="true" lb="PromoInfo.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="43" lt="19" ts="1406106020300" s="true" lb="allcampaignboard.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="102642">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106020344" s="false" lb="unreadntfcount.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="895" lt="895" ts="1406106020350" s="true" lb="getsceneryorders.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="864">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106021246" s="false" lb="dishphotolist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106021253" s="false" lb="pwinxincallback" rc="500" rm="Internal Server Error" tn="api测试 1-1" dt="text" by="2970">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106021261" s="false" lb="badgeinfo.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="0" ts="1406106021268" s="true" lb="ad" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021276" s="false" lb="getshoptags.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="4" lt="4" ts="1406106021284" s="true" lb="ShopInfo.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="24" lt="24" ts="1406106021289" s="false" lb="hotelinfo.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="153" lt="153" ts="1406106021314" s="true" lb="getsceneryordersize.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="64">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106021468" s="false" lb="pushform.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106021477" s="true" lb="residence.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021484" s="false" lb="updatemipush.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021491" s="false" lb="regionhd.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021497" s="true" lb="SearchIndex.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106021503" s="false" lb="userscore.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="0" ts="1406106021517" s="true" lb="downloadlink" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021524" s="false" lb="campaignboard.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="18" lt="18" ts="1406106021530" s="true" lb="weixinaudit" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="1902">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="0" ts="1406106021549" s="true" lb="download" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106021555" s="true" lb="hotelorder.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="224">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106021563" s="false" lb="sortnav.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106021570" s="true" lb="shakeconfig.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="384">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="0" ts="1406106021576" s="true" lb="qqshop" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106021594" s="true" lb="honeyrequest.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106021601" s="true" lb="CityList.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021609" s="true" lb="getsplashpic.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="48">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021641" s="false" lb="log.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21" lt="21" ts="1406106021647" s="true" lb="web.map" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="358">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106021673" s="true" lb="Config.hson" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="81">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="4" lt="0" ts="1406106021682" s="true" lb="weixinshop" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106021687" s="false" lb="indextabicon.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="0" ts="1406106021706" s="true" lb="shopcampaign.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="4" lt="0" ts="1406106021713" s="true" lb="homepagedealgn.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="0" ts="1406106021718" s="true" lb="locationconfig.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106021724" s="false" lb="pullpush.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="64">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021732" s="false" lb="openplatform.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="11" lt="11" ts="1406106021738" s="true" lb="appconfig.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="1360">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106021756" s="false" lb="advancedsuggest.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106021764" s="false" lb="gethotad.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1406106021772" s="false" lb="getmopaystrategylist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1406106021789" s="false" lb="weather/include/index_html_interface.jsp" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1021">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021800" s="false" lb="livedata/sxl.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="971">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106021807" s="false" lb="http%3A//m.api.dianping.com/http%3A//m.api.dianping.com/h...ping.com/http%252525253A/m.api.dianping.com/http%252525253A" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1179">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021815" s="false" lb="reqi/weather_reci" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="975">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021821" s="false" lb="cb/js/imgReady.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="975">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021839" s="false" lb="activeip/" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="959">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="4" lt="4" ts="1406106021846" s="false" lb="video.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="957">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106021852" s="false" lb="RghpN/7115db12/6fa11fa3/www.kj7e.com/js/chart.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1037">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106021871" s="false" lb="KnKoQ/7115db13/3c370a64/www.as9v.com/js/lib/base64.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1047">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="11" lt="11" ts="1406106021879" s="false" lb="js/baidu.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="963">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021904" s="false" lb="showpage/showpage/sc/modules/ISC_Forms.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1023">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021910" s="false" lb="a.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="949">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106021916" s="false" lb="adpro.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="957">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106021923" s="false" lb="sdk.php" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="955">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021931" s="false" lb="static/image/commonimg/jquery-slides.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1019">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021937" s="false" lb="QgZLS/71149012/67fafaec/cdn.188bet.com/Public/Lib/mcarousel-min.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1073">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="5" ts="1406106021955" s="false" lb="NfXKT/71149014/7041d3e5/cdn.myjbb.com/Public/JS/CommonControl.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1069">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021962" s="false" lb="generate_204" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="965">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106021968" s="false" lb="cclmb/sp.cecile.co.jp/component/js/genre/detail/jquery.autoheight.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1077">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106021975" s="false" lb="rest/api3.do" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="965">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="4" lt="4" ts="1406106021982" s="false" lb="page.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="955">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021988" s="false" lb="cdn_dianjiliu.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="973">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106021995" s="false" lb="NPfKP/71149012/d3a222cb/cdn.188bet.com/Public/Lib/mcarousel-min.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1073">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022001" s="false" lb="YUKmN/71149017/24fae127/cdn.188asia.com/Public/Lib/mcarousel-min.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1075">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022008" s="false" lb="s.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="949">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022015" s="false" lb="announce" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="957">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022023" s="false" lb="client_config.php" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="975">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022030" s="false" lb="analytics/upload" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="973">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="23" lt="23" ts="1406106022036" s="false" lb="Scripts/Pay.Float.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="981">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022060" s="false" lb="dispatch" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="957">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106022067" s="false" lb="NKWOL/71149017/67fafaf6/cdn.188asia.com/Public/Lib/mslides.min.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1071">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022088" s="false" lb="gateway/gw.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="967">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022095" s="false" lb="ga.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="951">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022102" s="false" lb="XWWOK/71149050/dfa676ab/sb.188bet.com/Public/JS/Minified/SportMasterPage.min.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1099">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022119" s="false" lb="VaUPN/71149018/6fa17206/cdn.jbbbet.com/Public/Lib/jQuery/jquery-ui-1.10.1.min.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1101">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022126" s="false" lb="beacon.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="959">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022139" s="false" lb="4198290.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="961">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022146" s="false" lb="c/" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="945">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022152" s="false" lb="wza/cnjxolcom/yixuan/yixuan_nav/domready.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1027">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022160" s="false" lb="position/" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="959">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022166" s="false" lb="vplayer.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="961">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022173" s="false" lb="jump/skip.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="965">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022180" s="false" lb="v/n.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="953">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022187" s="false" lb="js/carousel/conf.scrollable.v2.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1007">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022205" s="false" lb="OMhjX/71149012/dfa77117/cdn.188bet.com/Public/Lib/Modernizr.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1065">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="15" lt="15" ts="1406106022212" s="false" lb="qzonecallback" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="975">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022240" s="false" lb="OhdbU/71149014/6fa1720e/cdn.myjbb.com/Public/Lib/jQuery/jquery-1.9.1.min.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1091">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="24" lt="24" ts="1406106022247" s="false" lb="qzoneandroid" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="975">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022273" s="false" lb="utm.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="953">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022279" s="false" lb="getts.json" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="961">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022287" s="true" lb="sc/api_res/pic/shop/7.png" rc="200" rm="OK" tn="api测试 1-1" dt="bin" by="3482">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="5" ts="1406106022293" s="true" lb="sc/api_res/pic/shop/4.png" rc="200" rm="OK" tn="api测试 1-1" dt="bin" by="3321">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022299" s="false" lb="tool/ugc/sort_list.php" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="985">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022306" s="false" lb="v1/" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="947">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106022313" s="false" lb="data/cache/style_5_forum_index.css" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1009">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022321" s="false" lb="static/js/common.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="979">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022329" s="false" lb="data/cache/style_5_common.css" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="999">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022336" s="false" lb="data/cache/style_5_widthauto.css" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1005">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022354" s="false" lb="static/js/forum.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="977">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022361" s="false" lb="wpad.dat" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="957">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="6" ts="1406106022367" s="false" lb="static/js/jquery-mini-1.4.4.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1001">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022375" s="false" lb="static/js/logging.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="981">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022389" s="false" lb="static/js/script.js" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="979">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022396" s="false" lb="template/hiapk/images/logo.png" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1001">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106022404" s="false" lb="static/image/common/security.png" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="1005">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022420" s="false" lb="home.php" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="957">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022427" s="false" lb="index.php" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="959">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="0" ts="1406106022438" s="true" lb="grouponpaybackServlet" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="0" ts="1406106022444" s="false" lb="SinaCallBackServlet" rc="302" rm="Found" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[302]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1406106022451" s="true" lb="sc/api_res/pic/shop/5.png" rc="200" rm="OK" tn="api测试 1-1" dt="bin" by="3559">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="22" lt="22" ts="1406106022469" s="true" lb="hosts.txt" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="373">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="17" lt="17" ts="1406106022492" s="true" lb="f5monitor" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="17">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="14" lt="14" ts="1406106022510" s="true" lb="css/weixinshopbase.css" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="3123">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="10" lt="10" ts="1406106022525" s="true" lb="s/img/pin_red.png" rc="200" rm="OK" tn="api测试 1-1" dt="bin" by="2916">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022536" s="true" lb="s/img/dot_position.png" rc="200" rm="OK" tn="api测试 1-1" dt="bin" by="1301">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106022542" s="false" lb="searchlocation.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="0" ts="1406106022557" s="true" lb="pushreceived.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1406106022564" s="true" lb="offset.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="48">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="4" lt="4" ts="1406106022574" s="true" lb="hc.nagios" rc="200" rm="OK" tn="api测试 1-1" dt="" by="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="4" lt="4" ts="1406106022579" s="false" lb="lottery.bin" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="169">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022584" s="false" lb="mycardbag.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1406106022602" s="true" lb="homepagehotel.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="64">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106022612" s="false" lb="submitorder.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022621" s="false" lb="submitlottery.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022628" s="false" lb="checkoutorder.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106022635" s="false" lb="verifyorder.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022643" s="false" lb="sendverifycode.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106022651" s="false" lb="bindphone.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106022659" s="true" lb="deal.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="272">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106022667" s="false" lb="deallist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022675" s="false" lb="buygroupon.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022682" s="false" lb="getdeliveryarea.bi" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="977">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022690" s="false" lb="couponlist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106022697" s="false" lb="orderlist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022705" s="false" lb="deallistpaged.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="11" lt="11" ts="1406106022712" s="false" lb="verifycouponcode.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106022736" s="false" lb="sendgroupon.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1406106022743" s="false" lb="getweddinginfo.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106022754" s="false" lb="bookingwedding.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="156" lt="156" ts="1406106022772" s="true" lb="location.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="192">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="22" lt="22" ts="1406106022929" s="false" lb="locate.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="122" lt="122" ts="1406106022952" s="true" lb="rgc.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="192">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="105" lt="105" ts="1406106023075" s="true" lb="locationhd.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="128">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="10" lt="10" ts="1406106023181" s="true" lb="config.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="1392">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106023192" s="true" lb="configbg.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="1392">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="13" lt="0" ts="1406106023201" s="true" lb="shopwithtaggedreview.bin" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106023225" s="false" lb="shopfeaturetags.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023231" s="false" lb="direction.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023239" s="false" lb="nearbygroupon.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106023247" s="false" lb="recommenddealreview.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023253" s="false" lb="userphoto.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023260" s="false" lb="deletephoto.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023267" s="false" lb="uploadphoto.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023274" s="false" lb="updatephoto.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023281" s="false" lb="getshopalbumdetail.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106023288" s="false" lb="getshopalbum.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106023295" s="false" lb="addshopphoto.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106023302" s="false" lb="addreview.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20" lt="20" ts="1406106023311" s="false" lb="delreview.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="11" lt="11" ts="1406106023332" s="false" lb="reviewform.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="10" lt="10" ts="1406106023346" s="false" lb="userreview.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023357" s="false" lb="likereview.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023364" s="false" lb="replyreview.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="103" lt="103" ts="1406106023371" s="true" lb="reviewcomments.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="1408">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023475" s="false" lb="shop.4g" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="6" ts="1406106023482" s="false" lb="shopmedia.4g" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023490" s="false" lb="brandevent.4g" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023510" s="false" lb="addtionalreview.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106023517" s="false" lb="editreview.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023526" s="false" lb="getmopaydiscount.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023533" s="false" lb="getmopaypromo.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106023540" s="false" lb="getmopayorder.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106023560" s="false" lb="getmopaystrategy.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023566" s="false" lb="mopay.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023573" s="false" lb="querymopaystatus.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106023593" s="false" lb="shopcontribution.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106023599" s="false" lb="ugc" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="947">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106023607" s="false" lb="shop" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="949">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106023628" s="false" lb="addshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106023637" s="false" lb="sc" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="945">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="84" lt="84" ts="1406106023647" s="true" lb="site" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="4350">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="21" lt="21" ts="1406106023732" s="false" lb="drawsearch.api" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="11" lt="11" ts="1406106023754" s="false" lb="shoplist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1406106023767" s="false" lb="searchsuggest.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106023778" s="false" lb="rankfullindex.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023786" s="false" lb="ranktype.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="10" lt="10" ts="1406106023793" s="false" lb="rankinfo.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="112">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023804" s="false" lb="searchrank.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023812" s="false" lb="getparkinglist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1406106023819" s="false" lb="searchshop.4g" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106023840" s="false" lb="getkeywordtuan.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="14" lt="14" ts="1406106023848" s="false" lb="searchadshop.api" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106023863" s="false" lb="search" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="953">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106023873" s="false" lb="category.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106023882" s="false" lb="hotcategory.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="11" lt="11" ts="1406106023888" s="true" lb="locatecategory.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="240">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="38" lt="34" ts="1406106023900" s="true" lb="city.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="18752">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106023939" s="false" lb="metro.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023947" s="false" lb="region.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023954" s="false" lb="hotregion.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106023961" s="false" lb="recommendregion.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106023969" s="false" lb="categoryrecom.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106023976" s="false" lb="commons" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="955">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106023985" s="false" lb="recommendregionfeedback.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106023994" s="false" lb="promobrand.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106024003" s="false" lb="brandpromolist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106024011" s="false" lb="sendpromo.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106024019" s="false" lb="searchpromo.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106024027" s="false" lb="localpromo.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024035" s="false" lb="getpromopass.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="0" ts="1406106024042" s="false" lb="passbookreg" rc="404" rm="Not Found" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024052" s="false" lb="notificationform.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024059" s="false" lb="readnotifications.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024066" s="false" lb="updatenotificationform.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024072" s="false" lb="delnotifications.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024078" s="false" lb="readmsg.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="11" lt="11" ts="1406106024085" s="false" lb="subscribe.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024097" s="false" lb="sendprivatemsg.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="11" lt="11" ts="1406106024104" s="false" lb="addfollow.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" lt="9" ts="1406106024116" s="false" lb="fanslist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106024127" s="true" lb="followlist.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106024135" s="false" lb="removefollow.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="13" lt="13" ts="1406106024144" s="true" lb="addfeedback.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="192">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106024158" s="false" lb="addshopfeedback.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106024166" s="false" lb="addfavoriteshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024174" s="false" lb="delfavoriteshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024181" s="false" lb="favoriteshop.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024187" s="false" lb="snsfriends.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024195" s="false" lb="snsbindstatus.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024201" s="false" lb="ssobind.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="31" lt="31" ts="1406106024208" s="true" lb="notificationsetting.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024240" s="false" lb="updatenotificationsetting.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024246" s="false" lb="updateresidence.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024253" s="false" lb="user.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024259" s="false" lb="updateprofile.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024266" s="true" lb="getmyordercount.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="448">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024272" s="true" lb="getalertmark.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024278" s="false" lb="user" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="949">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024286" s="false" lb="getnotificationlist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024292" s="false" lb="checkintopicdetail.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024299" s="false" lb="checkintopiclist.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024305" s="false" lb="shopcheckinboard.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024312" s="false" lb="checkinboard.api" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024319" s="false" lb="delcheckin.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024326" s="false" lb="addphotoscheckin.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="96">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024333" s="false" lb="getlikedactivity.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024340" s="false" lb="getcheckintopictags.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024347" s="false" lb="checkin" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="955">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106024354" s="false" lb="usercheckinlist.api" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024362" s="false" lb="citytripguide.hotel" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024369" s="false" lb="getflavourguide.hotel" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024375" s="false" lb="getrankshopv66.hotel" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024382" s="false" lb="getrecomroute.hotel" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="0" ts="1406106024388" s="true" lb="searchsuggest.hotel" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="4" lt="0" ts="1406106024394" s="true" lb="searchshop.hotel" rc="200" rm="OK" tn="api测试 1-1" dt="" by="0">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024399" s="false" lb="roomprice.hotel" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024406" s="false" lb="advancedsuggest.hotel" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024413" s="false" lb="hotregion.hotel" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="6" ts="1406106024419" s="false" lb="getlocalinfo.hotel" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="105" lt="105" ts="1406106024426" s="false" lb="novicegift" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="963">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="8" lt="8" ts="1406106024532" s="false" lb="getdpid.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024542" s="false" lb="upgrade.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024548" s="false" lb="appresume.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="13" lt="13" ts="1406106024554" s="true" lb="getcityinfo.bin" rc="200" rm="OK" tn="api测试 1-1" dt="text" by="144">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024568" s="false" lb="homepagefindtab.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="17" lt="17" ts="1406106024574" s="false" lb="gift" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="951">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024592" s="false" lb="homepageindex.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106024598" s="false" lb="updatepush.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106024606" s="false" lb="samsungwallet.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024614" s="false" lb="indexads.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024621" s="false" lb="appactivate.api" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="32">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="5" lt="5" ts="1406106024628" s="false" lb="offsetshoppoint.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="6" lt="5" ts="1406106024634" s="false" lb="optimus" rc="404" rm="Not Found" tn="api测试 1-1" dt="text" by="955">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[404]]]
+
+****** comparison: [[[200]]]
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="23" lt="23" ts="1406106024641" s="false" lb="getcitylandmarks.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="7" ts="1406106024665" s="false" lb="yytopbarad.bin" rc="400" rm="Bad Request" tn="api测试 1-1" dt="text" by="80">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/</failureMessage>
+  </assertionResult>
+</httpSample>
+
+</testResults>
